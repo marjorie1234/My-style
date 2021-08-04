@@ -1,2 +1,0 @@
-# My-style
-My-style
